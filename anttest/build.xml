@@ -1,0 +1,10 @@
+<project name="firstproject" default="target1">
+
+    <target name="target1">
+        
+	       <echo>thisi the target1 </echo>
+	           
+		       </target>
+		           
+			    </project>
+
